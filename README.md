@@ -84,7 +84,7 @@ Tüm endpoint’ler standart bir response yapısı döner:
 ```
 ⚙️ Kurulum ve Çalıştırma
 1️- Projeyi Klonla:
-git clone https://github.com/KULLANICI_ADIN/BlueMediCore.git
+git clone https://github.com/aysenurtkyn/BlueMediCore.git
 cd BlueMediCore
 
 2️- Veritabanı Bağlantısını Ayarla:
